@@ -14,7 +14,7 @@ export default function Header (props){
             <NavLinkWrapper href="https://www.linkedin.com/in/christian-mpabuka/">
                 <div>LinkedIn</div>
             </NavLinkWrapper>
-            <NavLinkWrapper href="">
+            <NavLinkWrapper href="https://docs.google.com/document/d/1jjj1FdL5tPOpmWaNY0HXD9jPgCoo6Q3LeYB-IgFWqAM/">
                 <div>Resume</div>
             </NavLinkWrapper>
         
