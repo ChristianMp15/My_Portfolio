@@ -15,3 +15,14 @@ object-fit: cover;
 border-radius: 50px;
 max-width: 400px;
 `
+
+export const BioBio = styled.p`
+text-align: center;
+font-size: 20px;
+font-family: 'Hina Mincho', serif;
+margin:-30px 20px;
+`
+
+export const BioEmail = styled.h3`
+text-align: center;
+`
